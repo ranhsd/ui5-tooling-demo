@@ -1,0 +1,18 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="com.demo.uitooling.controller.App" displayBlock="true">
+	<Shell>
+		<App>
+			<Page title="UI5 Tooling Demo" backgroundDesign="Solid">
+				<subHeader>
+					<Toolbar>
+						
+					</Toolbar>
+				</subHeader>
+				<content>
+				</content>
+				<footer>
+	
+				</footer>
+			</Page>
+		</App>
+	</Shell>
+</mvc:View>
